@@ -1,4 +1,4 @@
-# Preferences > Themes
+# Slack Nord Theme
 
 Install Nord by copying the one-liner and paste it as custom theme in your Slack sidebar configuration.
 
